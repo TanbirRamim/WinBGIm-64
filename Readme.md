@@ -23,7 +23,7 @@ Win32 system calls have been updated to reflect the changes in win32 api for 64 
 ###### For that
 * #####        Clone the repo using 
       
-      git clone https://github.com/tanbirramim/WinBGIm-64
+      git clone https://github.com/TanbirRamim/WinBGIm-64.git
 
 * #####       Make sure GCC and CMake are installed properly and accessible from command line. Otherwise  insatll GCC (TDM64 or Mingw64) . Install CMake .
 
